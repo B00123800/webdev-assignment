@@ -1,0 +1,290 @@
+
+.container {
+    width: 100%;
+    max-width: auto;
+
+
+}
+
+#imagename {
+
+    font-family: 'Rum Raisin', sans-serif;
+    color: #fff;
+    z-index: 2;
+    position: absolute;
+    text-align: center;
+    font-size:60px;
+    top: 50%;
+    width: 100%;
+
+    overflow: hidden;
+    max-width: 1000px;
+    font-weight: 600;
+
+
+}
+
+.mainheader { 
+    color:forestgreen;
+     
+    font-family: 'Rum Raisin', sans-serif;
+}
+
+.facts {
+
+    font-family: 'Rum Raisin', sans-serif;
+}
+
+
+.row1 {
+
+    height:80%;
+    background-color: lightgray;
+    max-width: auto;
+    width:100%;    
+}
+
+nav {
+    font-family: 'Rum Raisin', sans-serif;
+    font-size: 25px;
+
+}
+
+
+
+.row2 {
+    padding:0px;
+    margin-bottom: 10px;
+
+}
+
+
+
+.navbar-header {
+    margin:auto;
+    max-width: 1000px !important;
+
+
+}
+
+
+
+.navbar { 
+    margin-bottom:0px !important;
+    margin-left: 0px !important;
+    z-index: 15;
+
+}
+
+
+
+.container{
+    max-width: 1000px;
+    margin: auto;
+
+
+}
+
+
+
+.carousel-inner img {             /* centers main carousel image*/
+    margin: auto;
+
+}
+
+
+
+
+.row {
+    margin:auto;
+    max-width: 1000px;
+    width:100%;
+
+
+}
+
+
+
+.landscape {
+
+
+    max-width: 1000px;
+    width:100%;
+}
+
+.row5 {
+
+    width:100%;
+    margin: auto;
+    overflow: hidden;
+    padding-left: 0px;
+    margin-bottom: 5px;
+
+}
+
+.rowab {
+    height:auto;
+}
+
+
+
+.footer{
+    background-color: lightgray;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin-bottom: 15px;
+}
+
+
+
+.rowa {
+    display:inline-block;
+    background-color: lightgray;
+    height:auto;
+    
+    max-width: 1000px;
+    width:100%;
+
+
+
+
+}
+
+#midrow {
+    background-color: lightgray;
+    height:auto;
+    border-bottom: solid 1px black;
+
+}
+
+.textonimage{
+
+    border:solid 2px blue;
+    margin-top:10px;
+    height: 300px;
+    width:100%;
+}
+
+.info {
+    padding:10px;
+    padding-left: 10px;
+    height: auto;
+}
+
+#info2 {
+    padding:10px;
+    padding-left: 30px;
+    height: auto;
+    width:auto;
+    max-width:100%;
+}
+
+
+#endingSection{
+    padding-bottom: 20px;
+    background-color: lightgray;
+    height:auto;
+
+
+
+}
+
+#endingSection2 {
+    padding-bottom: 20px;
+    background-color: lightgray;
+    height:auto; 
+width:auto;}
+
+
+
+
+.textonimage2 {
+
+    height:40px;
+    font-weight: 600; 
+
+}
+
+.avatar {
+    border-radius: 50%;
+
+}
+
+.icons{
+    padding: 30px;
+    background-color: lightgrey;
+    color:black;
+}
+
+#membership {
+    height:auto;
+
+}
+
+.merchandise {
+    height:auto;
+    padding:10px;
+    overflow:hidden;
+
+}
+
+
+#info {
+    padding:10px;
+    padding-left: 10px;
+    height: auto;
+    width:auto;
+    max-width: 1000px;
+}
+
+
+#aboutus {
+
+    float:left !important;
+    padding-left: 0px;
+}
+
+#earthtag {
+    float:left;
+    top:10%;
+    font-family: 'Rum Raisin', sans-serif;
+    color: #fff;
+    z-index: 2;
+    position: absolute;
+    overflow: hidden;
+
+    font-size:40px;
+    top: 10%;
+    width: 100%;
+}
+
+.info{
+    height:auto;
+    float:left;
+
+}
+
+#detail {
+
+    float:left !important;
+    padding-left: 0px;
+}
+
+.cashinput {
+    width: auto;
+
+    float: left;
+
+}
+
+.prompt {
+    float:left;
+    padding-left: 0px;
+
+}
+
+.rowabc {
+    width:100%;
+    background-color: cadetblue;
+    height:auto;
+}
